@@ -4,11 +4,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/laurencer_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLaurenceRawlings&screen_name=LaurenceR_)
 
 -   🔭 I’m currently working on my degree dissertation
--   🌱 I’m currently learning React
--   👯 I’m looking to collaborate on any interesting coding project
+-   🌱 I’m currently learning C, C++ and Unity
 -   💬 Ask me about anything Java, C# or Python related
 -   📫 How to reach me: Email here -> contact@laurencerawlings.com
--   ⚡ Fun fact: I learnt to code when I was 10
+-   ⚡ Fun fact: Alt+PrtSc will take a screen shot of the active window on windows :)
 
 ## Connect with Me
 
