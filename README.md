@@ -1,9 +1,14 @@
 # Hi there <img src="https://raw.githubusercontent.com/LaurenceRawlings/LaurenceRawlings/master/images/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=laurencerawlings.com&style=for-the-badge&url=https%3A%2F%2Flaurencerawlings.com&logo=cloudflare&logoColor=78fe96&labelColor=151515&color=dadada)](https://laurencerawlings.com)
-
 [![Email](https://img.shields.io/badge/Email-contact%40laurencerawlings%2Ecom-informational?style=for-the-badge&logo=minutemailer&logoColor=78fe96&labelColor=151515&color=dadada)](mailto:contact@laurencerawlings.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/laurencer_?color=dadada&logo=twitter&style=for-the-badge&logoColor=78fe96&labelColor=151515)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLaurenceRawlings&screen_name=LaurenceR_)
+
+I am a developer from the __United Kingdom__ with knowledge of a wide variety of languages and tools. I studied __Computer Science__ at __Swansea University__ from 2018-2021. To check out some of my work you can visit my website linked above, or check out some of my repositories [here](https://github.com/LaurenceRawlings?tab=repositories). I am always looking for new opportunities, if you would like to get into contact with me send me an email, or use any of the social channels below.
+
+## Connect With Me
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=78fe96&labelColor=151515&color=dadada)](https://www.linkedin.com/in/laurence-rawlings-932406199/)
+[![Twitter](https://img.shields.io/twitter/follow/laurencer_?color=dadada&logo=twitter&style=for-the-badge&logoColor=78fe96&labelColor=151515)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLaurenceRawlings&screen_name=LaurenceR_)
 [![Discord](https://img.shields.io/discord/701075588466737312?style=for-the-badge&label=Discord&logo=discord&logoColor=78fe96&labelColor=151515&color=dadada)](https://discordapp.com/invite/SPuPEda)
 
 ## Languages & Markups
@@ -51,8 +56,3 @@
 [![Laurence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaurenceRawlings&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=0&custom_title=Statistics)](https://github.com/LaurenceRawlings)
 <br/>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceRAwlings&langs_count=10&layout=compact&theme=dark&card_width=445&hide_border=true&border_radius=0)](https://github.com/LaurenceRawlings)
-
-[website]: https://laurencerawlings.com
-[twitter]: https://twitter.com/laurencer_
-[youtube]: https://www.youtube.com/channel/UCMOXtPnpNQ4xp4qCy9oiMzQ
-[linkedin]: https://www.linkedin.com/in/laurence-rawlings-932406199
